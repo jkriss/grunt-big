@@ -2,7 +2,7 @@ use &harr; to navigate
 
 ---
 
-Big. Sweet.
+Big.
 
 ---
 
