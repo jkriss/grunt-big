@@ -2,7 +2,10 @@
   "name": "grunt-big",
   "version": "0.0.1",
   "author": "jesse@jklabs.net",
-  "license": "MIT",
+  "license": {
+    "type" : "Public Domain",
+    "url" : "https://github.com/jkriss/grunt-big/blob/master/LICENSE"
+  },
   "devDependencies": {
     "grunt": "~0.4.2",
     "grunt-markdown": "~0.5.0",
