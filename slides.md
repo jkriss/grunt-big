@@ -2,13 +2,22 @@ use &harr; to navigate
 
 ---
 
-Big
+Big. Sweet.
 
 ---
 
 *Presentation software* for busy busy hackers
+
+---
+
 +text
+
+---
+
 +markdown formatting
+
+---
+
 as *big* as it can be
 
 ---
