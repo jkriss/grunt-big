@@ -20,8 +20,6 @@ module.exports = function(grunt) {
           template : 'templates/big.jst',
           postCompile : function(src, context) {
             var slides = src.split("<hr>");
-            // if it has an image, make that the background
-            // return "<div>" + src.replace(/<hr>/g, '</div><div>');
             return slides.map(function(slide) {
               return '<div>' + slide.replace(/^\s+|\s+$/,'').replace(/<p>|<\/p>/g, '') + '</div>\n\n';
             }).join("\n");
