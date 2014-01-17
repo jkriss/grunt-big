@@ -11,7 +11,7 @@
 
 ---
 
-Even this readme file will be its own presentation.
+Even this readme file will be [its own presentation](http://jkriss.github.io/grunt-big/README.html).
 
 ---
 
